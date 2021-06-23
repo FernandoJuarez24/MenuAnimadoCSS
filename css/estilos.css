@@ -64,6 +64,12 @@ main{
 	main{
 		margin-left: 100px;
 	}
+	main h1{
+		margin-bottom: 30px;
+	}
+	main p{
+		margin-bottom: 20px;
+	}
 	.menu{
 		top: 0;
     	width: 100px;
